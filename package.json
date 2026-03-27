@@ -1,0 +1,30 @@
+{
+  "name": "linter-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jollibit/linter-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/jollibit/linter-test/issues"
+  },
+  "homepage": "https://github.com/jollibit/linter-test#readme",
+  "devDependencies": {
+    "@eslint/css": "^1.0.0",
+    "@eslint/js": "^10.0.1",
+    "@eslint/json": "^1.2.0",
+    "@eslint/markdown": "^8.0.0",
+    "eslint": "^10.1.0",
+    "globals": "^17.4.0"
+  }
+}
