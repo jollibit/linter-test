@@ -9,5 +9,3 @@ class blob{
 const myBlob = new blob("first");
 
 console.log(myBlob.value);
-
-lla
