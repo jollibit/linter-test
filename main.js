@@ -10,4 +10,4 @@ const myBlob = new blob('first');
 
 console.log(myBlob.value);
 
-console.log('Thats an error');
+console.log("Thats an error");
